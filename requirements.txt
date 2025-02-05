@@ -1,0 +1,14 @@
+pandas
+fastparquet
+pyarrow
+pyfim
+networkx
+seaborn
+dvc
+dvc-s3
+gdown
+torch
+python-dot-env
+psutil
+pynvml
+-e .
